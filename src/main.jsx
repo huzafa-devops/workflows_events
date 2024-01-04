@@ -9,3 +9,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 );
+
+// This is important
+// Adding a new change
+// Adding third line
